@@ -1,0 +1,51 @@
+Panoramica dell'analisi dei dati.
+
+Affinché i dati possano essere usati per raccontare una storia, devono prima essere sottoposti a un processo che li renda utilizzabili all'interno della storia. L'analisi dei dati è il processo di identificazione, pulizia, trasformazione e modellazione dei dati per individuare informazioni utili e significative. I dati vengono quindi modellati in una storia mediante report a supporto dei processi decisionali critici.
+
+Poiché il mondo è sempre più basato sui dati, la condivisione di storie tramite l'analisi dei dati sta diventando un aspetto e un componente essenziale per le piccole e grandi imprese. Per questo motivo, le organizzazioni continuano ad assumere analisti di dati.
+
+Le aziende che basano le proprie strategie decisionali sui dati prendono decisioni in base a ciò che i dati raccontano e, nel mondo attuale, i dati non vengono sfruttati al massimo delle loro potenzialità. Questa è una sfida che quasi tutte le aziende si trovano ad affrontare oggi. L'analisi dei dati è, e deve essere, un aspetto fondamentale delle attività che tutte le organizzazioni svolgono per determinare l'impatto del business, tra cui la valutazione del sentiment dei clienti, le ricerche di mercato e sui prodotti, nonché l'identificazione delle tendenze o di altri dati analitici.
+
+Se da un lato il processo di analisi dei dati è incentrato sulle attività di pulizia, modellazione e visualizzazione dei dati, dall'altro è opportuno non sottovalutare il concetto di analisi dei dati e l'importanza che ricopre per le aziende. I componenti fondamentali dell'analisi dei dati sono suddivisi nelle categorie seguenti:
+
+- Analisi descrittiva.
+- Analisi diagnostica.
+- Analisi predittiva.
+- Analisi prescrittiva.
+- Analisi cognitiva.
+
+Analisi descrittiva.
+L'analisi descrittiva consente di rispondere a domande su ciò che è accaduto, in base ai dati cronologici. Le tecniche di analisi descrittiva consistono nella sintesi di set di dati di grandi dimensioni per descrivere i risultati agli stakeholder.
+
+Sviluppando indicatori di prestazioni chiave (KPI), queste strategie consentono di monitorare l'esito positivo o negativo degli obiettivi chiave. In molti settori vengono usate metriche come il ritorno sugli investimenti e vengono sviluppate metriche specializzate per monitorare le prestazioni di settori specifici.
+
+Un esempio di analisi descrittiva è la generazione di report per offrire una vista dei dati finanziari e delle vendite di un'organizzazione.
+
+Analisi diagnostica.
+L'analisi diagnostica consente di rispondere a domande sul motivo per cui sono accaduti determinati eventi. Le tecniche di analisi diagnostica integrano l'analisi descrittiva di base e usano i risultati dell'analisi descrittiva per individuare la causa degli eventi. Gli indicatori di prestazioni vengono quindi esaminati ulteriormente per capire il motivo per cui questi eventi sono migliorati o peggiorati. In genere, questo processo avviene in tre passaggi:
+
+- Identificare le anomalie nei dati. Tali anomalie possono essere variazioni impreviste in una metrica o in un mercato particolare.
+
+- Raccogliere i dati correlati a queste anomalie.
+
+- Usare tecniche statistiche per individuare relazioni e tendenze in grado di spiegare queste anomalie.
+
+Analisi predittiva.
+L'analisi predittiva consente di rispondere a domande su ciò che accadrà in futuro. Le tecniche di analisi predittiva usano i dati cronologici per identificare le tendenze e determinare se è probabile che si ripetano. Gli strumenti di analisi predittiva forniscono dati analitici preziosi che indicano ciò che può accadere in futuro. Tra le tecniche adottate sono incluse diverse tecniche statistiche e di Machine Learning, come le reti neurali, gli alberi delle decisioni e la regressione.
+
+Analisi prescrittiva.
+L'analisi prescrittiva consente di rispondere a domande sulle azioni da intraprendere per raggiungere un determinato obiettivo. Usando informazioni dettagliate dall'analisi prescrittiva, le organizzazioni possono prendere decisioni basate sui dati. Questa tecnica consente alle aziende di prendere decisioni informate in caso di incertezza. Le tecniche di analisi prescrittiva usano Machine Learning come una delle strategie per individuare i modelli in set di dati di grandi dimensioni. Analizzando decisioni ed eventi del passato, le organizzazioni possono stimare la probabilità che si verifichino risultati diversi.
+
+Analisi cognitiva.
+L'analisi cognitiva cerca di trarre inferenze da dati e modelli esistenti, derivare conclusioni in base a knowledge base esistenti e quindi riportare tali conclusioni nella knowledge base per inferenze future. Si tratta essenzialmente di un ciclo di feedback basato su autoapprendimento. L'analisi cognitiva consente di comprendere cosa può accadere se le circostanze cambiano e di determinare come gestire queste situazioni.
+
+Le inferenze non sono query strutturate basate su un database di regole, ma sono ipotesi non strutturate raccolte da diverse origini ed espresse con vari gradi di attendibilità. Un'analisi cognitiva efficace dipende da algoritmi di Machine Learning e usa diversi concetti di elaborazione del linguaggio naturale per trarre conclusioni significative da origini dati precedentemente inutilizzate, come i log delle conversazioni dei call center e le recensioni dei prodotti.
+
+Esempio:
+Tramite la generazione di report e le visualizzazioni di dati, un'azienda di vendita al dettaglio usa l'analisi descrittiva per esaminare i modelli di acquisto degli anni precedenti al fine di individuare i prodotti che potrebbero diventare popolari l'anno successivo. L'azienda può esaminare anche i dati per comprendere il motivo per cui un particolare prodotto ha avuto successo e capire se tale tendenza è destinata a proseguire, al fine di determinare se continuare a riassortire il prodotto.
+
+Un'azienda può determinare che un determinato prodotto ha avuto successo in un intervallo di tempo specifico. Può quindi usare l'analisi per determinare se determinate attività di marketing o di social networking hanno contribuito all'incremento delle vendite.
+
+Un aspetto sottostante dell'analisi dei dati è il fatto che un'azienda deve considerare attendibili i dati. Il processo di analisi dei dati acquisisce i dati da origini attendibili e li modella in modo da renderli utilizzabili, significativi e facilmente comprensibili, per supportare il processo decisionale. L'analisi dei dati consente alle aziende di comprendere appieno il significato dei dati tramite decisioni e processi guidati da dati, così da avere così la certezza di prendere le giuste decisioni.
+
+Con l'aumentare della quantità di dati, la presenza di analisti di dati diventa un requisito essenziale. Un analista di dati sa come organizzare le informazioni e distillarle in qualcosa di pertinente e comprensibile. Un analista di dati sa come raccogliere i dati appropriati e come usarli, ovvero sa dare un senso alle grandi quantità di dati disponibili.

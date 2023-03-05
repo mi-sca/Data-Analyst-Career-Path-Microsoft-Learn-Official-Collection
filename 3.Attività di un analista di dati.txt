@@ -1,0 +1,62 @@
+Attività di un analista di dati.
+
+Un analista di dati è uno dei ruoli critici in un'organizzazione, che contribuisce a rivelare e dare un senso alle informazioni per assicurare il funzionamento equilibrato ed efficiente di un'azienda. È quindi fondamentale che l'analista di dati comprenda chiaramente le proprie responsabilità e le attività da svolgere quotidianamente. Gli analisti di dati sono essenziali per aiutare le organizzazioni a ottenere dati analitici preziosi ricavati dalla grande quantità di dati disponibili e collaborano a stretto contatto con altri professionisti nell'organizzazione per individuare le informazioni importanti.
+
+La figura seguente mostra le cinque aree principali interessate nel processo di analisi dei dati.
+
+Preparare.
+L'analista di dati dividerà probabilmente il proprio tempo tra le attività di preparazione e quelle di modellazione. Eventuali dati errati o non corretti possono avere un impatto grave e possono causare la creazione di report non validi, la perdita di attendibilità, nonché effetti negativi sulle decisioni aziendali, con conseguenti perdite di ricavi, impatto negativo sul business e altri problemi ancora.
+
+Prima di creare un report, è necessario occuparsi della preparazione dei dati. La preparazione dei dati è il processo di profilatura, pulizia e trasformazione dei dati preliminare alle attività di modellazione e visualizzazione.
+
+Il processo di preparazione dei dati consiste nell'acquisire i dati non elaborati e nel trasformarli in informazioni attendibili e comprensibili. Sono incluse, tra le altre attività, la verifica dell'integrità dei dati, la correzione di dati errati o non accurati, l'identificazione di dati mancanti, la conversione dei dati da una struttura a un'altra o da un tipo a un altro, nonché la trasformazione dei dati per facilitarne la leggibilità.
+
+La preparazione dei dati presuppone anche la comprensione della modalità di acquisizione e connessione ai dati e delle implicazioni che possono avere le decisioni sulle prestazioni. Quando ci si connette ai dati, è necessario prendere decisioni per garantire che i modelli e i report siano in grado di soddisfare le aspettative e i requisiti riconosciuti.
+
+Anche garantire la privacy e la sicurezza è importante. A tale scopo possono essere necessarie attività come rendere anonimi i dati per evitarne la condivisione eccessiva o impedire agli utenti di visualizzare informazioni personali quando non è necessario. In alternativa, per aiutare a garantire la privacy e la sicurezza può essere necessario rimuovere completamente i dati se non sono utili per la storia da raccontare.
+
+La preparazione dei dati può spesso richiedere molto tempo. Gli analisti di dati seguono una serie di passaggi e metodi per preparare i dati in modo da inserirli in un contesto e in uno stato appropriati, eliminando le informazioni di qualità non sufficiente e consentendo di trasformarli in dati analitici preziosi.
+
+Modellare.
+Quando i dati si trovano nello stato appropriato, sono pronti per la modellazione. Il processo di modellazione dei dati consiste nel determinare le correlazioni tra le tabelle. Questo processo viene eseguito definendo e creando relazioni tra le tabelle. Da questo punto è possibile migliorare il modello definendo le metriche e aggiungendo calcoli personalizzati per arricchire i dati.
+
+La creazione di un modello di dati efficace e appropriato è un passaggio fondamentale per aiutare le organizzazioni a comprendere i dati analitici e ottenere da essi preziose informazioni. Un modello di dati efficace rende i report più accurati, consente l'esplorazione dei dati in modo più rapido ed efficiente, riduce il tempo per il processo di scrittura dei report e semplifica la manutenzione futura dei report.
+
+Il modello è un altro componente critico che ha un effetto diretto sulle prestazioni del report e sull'analisi complessiva dei dati. Un modello progettato in modo non adeguato può avere un impatto drasticamente negativo sull'accuratezza e sulle prestazioni generali del report. Al contrario, un modello ben progettato con dati preparati correttamente garantisce la generazione di un report efficace e attendibile. Queste considerazioni sono ancora più vere quando si lavora con i dati su larga scala.
+
+Dal punto di vista di Power BI, se le prestazioni del report risultano rallentate o gli aggiornamenti richiedono molto tempo, sarà probabilmente necessario rivedere le attività di preparazione e modellazione dei dati per ottimizzare il report.
+
+Il processo di preparazione e di modellazione dei dati è un processo iterativo. La preparazione dei dati è la prima attività di analisi dei dati. Se si comprendono e si preparano i dati prima della modellazione, questa fase risulterà molto più semplice.
+
+Visualizzare.
+L'attività di visualizzazione consente di dare significato ai dati. L'obiettivo finale dell'attività di visualizzazione è quello di risolvere i problemi aziendali. Un report ben progettato deve raccontare una storia accattivante sui dati, consentendo ai decision maker aziendali di ottenere rapidamente i dati analitici necessari. Usando le visualizzazioni e le interazioni appropriate, è possibile creare un report efficace che guida il lettore attraverso il contenuto in modo rapido ed efficiente, consentendogli di seguire la trama raccontata dai dati.
+
+I report creati durante l'attività di visualizzazione consentono alle aziende e ai decision maker di comprendere il significato dei dati per poter prendere decisioni cruciali in modo accurato. I report determinano le azioni, le decisioni e i comportamenti di carattere generale di un'organizzazione, che si affida alle informazioni rilevate nei dati.
+
+L'azienda può comunicare la necessità di tutti i punti dati di un determinato report per prendere decisioni. L'analista di dati deve impegnarsi a comprendere pienamente il problema che l'azienda sta cercando di risolvere. Determinare se sono necessari tutti i punti dati, perché una quantità eccessiva di dati può rendere difficoltoso il rilevamento dei punti chiave. Una storia concisa dei dati può aiutare a trovare più rapidamente i dati analitici importanti.
+
+Grazie alle funzionalità di intelligenza artificiale integrate in Power BI, gli analisti di dati possono creare report avanzati, senza scrivere codice, che consentono agli utenti di ottenere dati analitici e risposte e di individuare gli obiettivi pratici da perseguire. Le funzionalità di intelligenza artificiale in Power BI, come gli oggetti visivi di intelligenza artificiale predefiniti, consentono di individuare i dati ponendo domande, usando la funzionalità Informazioni rapide o creando modelli di Machine Learning direttamente in Power BI.
+
+Un aspetto importante della visualizzazione dei dati consiste nella progettazione e nella creazione di report per l'accessibilità. Quando si creano report, è importante pensare a coloro che vi accederanno e li leggeranno. I report devono essere progettati tenendo conto dell'accessibilità fin dall'inizio, in modo che non siano necessarie modifiche speciali in futuro.
+
+Molti componenti del report saranno utili per raccontare la storia che rivelano i dati. Dall'applicazione di una combinazione colori complementari e accessibili all'impostazione di tipi di carattere e dimensioni, fino alla selezione di elementi visivi appropriati per i dati visualizzati, tutto contribuisce a raccontare questa storia.
+
+Analizzare.
+L'attività di analisi è il passaggio importante per comprendere e interpretare le informazioni visualizzate nel report. Nel ruolo di analista di dati, è necessario comprendere le funzionalità analitiche di Power BI e usarle per trovare dati analitici, identificare modelli e tendenze, prevedere i risultati e quindi comunicare tali informazioni in modo da renderle comprensibili a tutti.
+
+L'analisi avanzata consente ad aziende e organizzazioni di prendere decisioni migliori per il business, di creare dati analitici di utilità pratica e di ottenere risultati significativi. Con l'analisi avanzata, le organizzazioni possono eseguire il drill-down dei dati per prevedere modelli e tendenze futuri, identificare attività e comportamenti e formulare le domande appropriate sui propri dati.
+
+In precedenza, l'analisi dei dati era un processo complesso e intricato che in genere veniva eseguito dai data engineer o dai data scientist. Attualmente Power BI rende accessibile l'analisi dei dati, semplificando il processo. Gli utenti possono ottenere rapidamente dati analitici usando gli oggetti visivi e le metriche direttamente dal desktop e quindi pubblicare tali dati nei dashboard in modo che altri possano trovare le informazioni di cui hanno bisogno.
+
+Questa funzionalità rappresenta un'altra area in cui le integrazioni di intelligenza artificiale all'interno di Power BI possono portare l'analisi a un livello superiore. Le integrazioni con Azure Machine Learning, i servizi cognitivi e gli oggetti visivi di intelligenza artificiale integrati consentono di arricchire i dati e l'analisi.
+
+Gestire.
+In Power BI sono presenti molti componenti, tra cui report, dashboard, aree di lavoro, set di dati e altri ancora. L'analista di dati è responsabile della gestione di questi asset di Power BI, supervisionando la condivisione e la distribuzione di elementi come report e dashboard e garantendo la sicurezza degli asset di Power BI.
+
+Le app possono essere un metodo di distribuzione prezioso dei contenuti e consentono una gestione più semplice per un vasto pubblico. Questa funzionalità rende possibili anche esperienze di navigazione personalizzate e collegamenti ad altri asset all'interno dell'organizzazione come complemento ai report.
+
+La gestione dei contenuti è utile per promuovere la collaborazione tra team e singoli utenti. La condivisione e l'individuazione dei contenuti sono importanti per consentire alle persone di ottenere le risposte di cui hanno bisogno. È anche importante garantire la sicurezza degli elementi. Assicurarsi che le persone giuste abbiano accesso agli elementi appropriati e che non si verifichino perdite di dati al di là degli stakeholder.
+
+Una gestione corretta può anche essere utile per ridurre i silo di dati all'interno dell'organizzazione. La presenza di dati duplicati può rendere difficile la gestione e causare la latenza dei dati in caso di utilizzo eccessivo delle risorse. Power BI contribuisce a ridurre i silo di dati grazie all'uso di set di dati condivisi e consente di riutilizzare i dati preparati e modellati. Per i dati aziendali chiave, l'approvazione di un set di dati come certificato può contribuire ad assicurare l'attendibilità dei dati.
+
+La gestione degli asset di Power BI contribuisce a limitare gli sforzi e garantisce la sicurezza dei dati.

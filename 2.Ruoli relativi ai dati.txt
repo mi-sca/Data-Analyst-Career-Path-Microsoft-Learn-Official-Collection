@@ -1,0 +1,58 @@
+Ruoli relativi ai dati.
+
+Raccontare una storia con i dati è un percorso che non inizia dall'utente. I dati devono provenire da qualche parte. Raccogliere i dati in modo che siano utilizzabili richiede un certo impegno che, con tutta probabilità, non è responsabilità di un singolo utente, in particolare se si considera l'ambito aziendale.
+
+Le applicazioni e i progetti attuali possono essere grandi e complessi e spesso si basano sulle competenze e sulle conoscenze di numerose persone. Ogni persona offre un talento e un'esperienza esclusivi, collaborando e contribuendo a coordinare le attività e le responsabilità per tutto l'iter del progetto, dall'ideazione alla produzione.
+
+Non molto tempo fa, i ruoli come il business analyst e lo sviluppatore di business intelligence costituivano la norma per l'elaborazione e la comprensione dei dati. Tuttavia, la crescita e l'esplosione delle dimensioni e dei tipi di dati hanno determinato l'evoluzione di questi ruoli in set di competenze più specializzati, che consentono la modernizzazione e la semplificazione dei processi di ingegneria e analisi dei dati.
+
+Nelle sezioni seguenti vengono illustrati i diversi ruoli relativi ai dati e le responsabilità specifiche nello spettro globale delle attività di individuazione e comprensione dei dati:
+
+- Business analyst;
+
+- Analista di dati;
+
+- Data engineer;
+
+- Data scientist;
+
+- Amministratore del database;
+
+Business analyst.
+Anche se ci sono alcune analogie tra un analista di dati e un business analyst, l'elemento chiave che differenzia i due ruoli è legato alle modalità di utilizzo dei dati. Un business analyst è più vicino all'azienda ed è specializzato nell'interpretare i dati provenienti dalla visualizzazione. Spesso i ruoli di analista di dati e business analyst possono essere svolti da una stessa persona.
+
+Analista di dati.
+Un analista di dati consente alle aziende di ottimizzare il valore dei propri asset di dati tramite strumenti di visualizzazione e creazione di report, ad esempio Microsoft Power BI. Gli analisti di dati sono responsabili della profilatura, della pulizia e della trasformazione dei dati. Le loro responsabilità includono anche la progettazione e la creazione di modelli di dati scalabili ed efficienti, nonché l'abilitazione e l'implementazione di funzionalità di analisi avanzate nei report per l'analisi. Un analista di dati collabora con gli stakeholder appropriati per identificare i dati pertinenti e necessari e i requisiti per la creazione di report e ha quindi il compito di trasformare i dati non elaborati in dati analitici rilevanti e significativi.
+
+Un analista di dati è anche responsabile della gestione degli asset di Power BI, inclusi i report, i dashboard, le aree di lavoro e i set di dati sottostanti usati nei report. Ha il compito di implementare e configurare le procedure di sicurezza appropriate, in combinazione con i requisiti degli stakeholder, per garantire la sicurezza di tutti gli asset di Power BI e dei relativi dati.
+
+Gli analisti di dati collaborano con i data engineer per determinare e individuare le origini dati appropriate in grado di soddisfare i requisiti degli stakeholder. Gli analisti di dati collaborano inoltre con il data engineer e l'amministratore del database per garantire che l'analista disponga dell'accesso appropriato alle origini dati necessarie. La collaborazione con il data engineer è anche finalizzata a identificare nuovi processi o a migliorare i processi esistenti per la raccolta dei dati per l'analisi.
+
+Data engineer.
+I data engineer si occupano del provisioning e della configurazione delle tecnologie di piattaforma dati, in locale e nel cloud. Gestiscono e proteggono il flusso di dati strutturati e non strutturati da più origini. Le piattaforme dati usate possono includere database relazionali e non relazionali, flussi di dati e archivi di file. I data engineer verificano inoltre che i servizi dati siano integrati in modo sicuro e trasparente nelle varie piattaforme dati.
+
+I compiti principali dei data engineer includono l'uso di servizi dati in locale e nel cloud e di strumenti per inserire, estrarre e trasformare i dati provenienti da più origini. I data engineer collaborano con gli stakeholder aziendali per identificare e soddisfare i requisiti relativi ai dati. Si occupano di progettare e implementare soluzioni.
+
+Anche se può esserci una certa sovrapposizione delle attività e delle responsabilità di un data engineer e di un amministratore del database, l'ambito di lavoro di un data engineer va oltre la gestione di un database e del server in cui questo è ospitato e probabilmente non include la gestione complessiva dei dati operativi.
+
+Un data engineer può aggiungere un notevole valore sia ai progetti di business intelligence che a quelli di data science. Quando il data engineer raccoglie i dati, operazione spesso detta di data wrangling, i progetti avanzano più rapidamente, perché i data scientist possono concentrarsi sulle proprie aree di lavoro.
+
+Un analista di dati collabora a stretto contatto con un data engineer per assicurarsi che sia possibile accedere a una vasta gamma di origini dati, strutturate e non, a supporto dell'ottimizzazione dei modelli di dati, che sono in genere forniti da un data warehouse o un data lake moderno.
+
+Amministratori di database e professionisti del settore della business intelligence possono facilmente passare a un ruolo di data engineer studiando le tecnologie e gli strumenti usati per elaborare grandi quantità di dati.
+
+Data scientist.
+I data scientist eseguono operazioni di analisi avanzata per estrarre valore dai dati. Il loro lavoro può variare dall'analisi descrittiva all'analisi predittiva. L'analisi descrittiva valuta i dati attraverso un processo noto come analisi esplorativa dei dati (EDA). L'analisi predittiva viene usata in ambito di Machine Learning per applicare tecniche di modellazione in grado di rilevare anomalie o modelli. Questa analisi rappresenta una parte importante dei modelli di previsione.
+
+L'analisi descrittiva e quella predittiva rappresentano solo un aspetto del lavoro dei data scientist. Alcuni data scientist possono persino occuparsi di Deep Learning, eseguendo esperimenti iterativi per risolvere un problema di dati complesso tramite algoritmi personalizzati.
+
+Prove aneddotiche suggeriscono che la maggior parte del lavoro in un progetto di data science viene dedicata ad attività di data wrangling e ingegneria delle funzionalità. I data scientist possono accelerare il processo di sperimentazione quando i data engineer sfruttano le proprie competenze per eseguire correttamente il data wrangling.
+
+In apparenza, può sembrare che un data scientist e un analista di dati svolgano attività molto differenti, ma non è così. Un data scientist esamina i dati per determinare le domande che necessitano di risposte e spesso formula un'ipotesi o un esperimento e quindi si rivolge all'analista di dati per ottenere supporto per la visualizzazione dei dati e la creazione di report.
+
+Amministratore del database.
+Un amministratore del database implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati ibride e native del cloud basate sui servizi dati di Microsoft Azure e Microsoft SQL Server. Un amministratore del database è responsabile della disponibilità complessiva e delle prestazioni e ottimizzazioni coerenti delle soluzioni di database. Collabora con gli stakeholder per identificare e implementare i criteri, gli strumenti e i processi per i piani di backup e ripristino dei dati.
+
+Il ruolo di amministratore del database è diverso da quello di data engineer. Un amministratore del database monitora e gestisce l'integrità complessiva di un database e del relativo hardware, mentre un data engineer è impegnato nel processo di data wrangling, ovvero di inserimento, trasformazione, convalida e pulizia dei dati per soddisfare le esigenze e i requisiti aziendali.
+
+L'amministratore del database è inoltre responsabile della gestione della sicurezza globale dei dati, nonché della concessione e della limitazione dei privilegi degli utenti e del relativo accesso ai dati in base alle esigenze e ai requisiti aziendali.
