@@ -1,4 +1,4 @@
-Attività di un analista di dati.
+Attività di un'analista di dati.
 
 Un analista di dati è uno dei ruoli critici in un'organizzazione, che contribuisce a rivelare e dare un senso alle informazioni per assicurare il funzionamento equilibrato ed efficiente di un'azienda. È quindi fondamentale che l'analista di dati comprenda chiaramente le proprie responsabilità e le attività da svolgere quotidianamente. Gli analisti di dati sono essenziali per aiutare le organizzazioni a ottenere dati analitici preziosi ricavati dalla grande quantità di dati disponibili e collaborano a stretto contatto con altri professionisti nell'organizzazione per individuare le informazioni importanti.
 
